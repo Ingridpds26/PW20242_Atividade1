@@ -1,3 +1,1 @@
-# PW20242_Atividade1
-Atividade prática avaliativa da disciplina de Programação para a Web
 # Ingrid Pacheco da Silva
